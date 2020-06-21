@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,salary_min,salary_max,avg_salary,company_txt,some_state,age,python_ym,r_ym,spark,aws,excel
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,salary_min,salary_max,avg_salary,company_txt,job_state,some_state,age,python_ym,r_ym,spark,aws,excel
 Data Scientist,$79K-$147K (Glassdoor est.),"We are looking for Data Scientists who are interested in using data to draw insights that will result in policy changes or business process optimisation, benefiting the public. The applicant will be scoping projects with stakeholders, using data sets across Government Agencies, applying business acumen to tease out relevant impactful insights, and presenting insights in a clear, concise manner by using appropriate visualisations.
 
 He/she should have some training and working experiences on data analytics, and should be comfortable with hands-on data manipulation, data modelling and data visualisation. He/she should also be comfortable with engaging stakeholders on sharpening their business problems.
@@ -24,7 +24,7 @@ Strong analytical, conceptualisation and problem solving skills
 Team player with strong organization and people handling skills
 Passion for the use of analytics and data to improve Public Service",3.7,"GovTech
 3.7","San Francisco, CA","Singapore, Singapore",1001 to 5000 employees,2016,Government,Federal Agencies,Government,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"GovTech
-",0,4,1,0,0,0,1
+", CA,0,4,1,0,0,0,1
 Staff Data Scientist,$79K-$147K (Glassdoor est.),"At Vungle, our Data Scientists build systems that enable real-time recommendations for billions of ad requests daily. Focusing specifically within the mobile app ecosystem, we leverage and combine Vungle's enormous and unique datasets to model conversion rates, bid prices, win rates, and contextually match our video-focused content across tens of thousands of apps. Working hand in hand with our Machine Learning Engineers, Data Scientists at Vungle not only train and evaluate models offline, but also contribute the production code that runs those models in real time. We constantly experiment with everything from custom implementations of the latest machine learning algorithms to off-the-shelf models and frameworks like Apache Spark, TensorFlow and scikit-learn.
 
 This role requires a strong understanding of state-of-the-art techniques for machine learning, comfort with Big Data frameworks, and production-level programming skills. You will work cross-functionally with stakeholders from Engineering and Data Science. You will also have an opportunity to participate in building Vungle's patent portfolio.
@@ -60,7 +60,7 @@ Vungle is the trusted guide for growth and engagement, transforming how people d
 
 #LI-JH1",3.7,"Vungle
 3.7","San Francisco, CA","San Francisco, CA",201 to 500 employees,2011,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"AdColony, Unity, AppLovin",0,0,79,147,113.0,"Vungle
-",1,9,1,0,1,1,0
+", CA,1,9,1,0,1,1,0
 R&D Scientist,$79K-$147K (Glassdoor est.),"Here at Berkeley Lights, we think cells are awesome! Cells are capable of manufacturing cures for diseases, fibers for clothing, energy in the form of biofuels, and food proteins for nutrition. So the question is, if nature is capable of manufacturing the products we need in a scalable way, why aren’t we doing more of this? Well, the answer is that with the solutions available today, it is hard. Berkeley Lights is here to change all of that! Our extremely sophisticated proprietary technology and Beacon® and LightningTM systems accelerate the rate researchers can discover and develop cell-based products in a fraction of the time and at a fraction of the cost of conventional, legacy research methods. Using our tools and solutions, scientists can find the best cells, the first time they look.
 
 Our goal is to continue to collaborate with customers to drive the adoption of our technologies, making cell-based products and therapeutics more easily accessible the world over! You will play a major role here in the creation and development of these technologies, and our success will depend on you! We have been changing how the world develops cell-based products since 2011, and now our family of around 200 employees welcomes you to consider joining us on this incredible journey.
@@ -92,7 +92,7 @@ The California Consumer Privacy Act (CCPA) is effective January 1, 2020. Please 
 
 The California Consumer Privacy Act (CCPA) is effective January 1, 2020. Please read our California Consumer Privacy Act Disclosure Form regarding the CCPA and Berkeley Lights’ required disclosures about the collection of personal information.",4.3,"Berkeley Lights
 4.3","Emeryville, CA","Emeryville, CA",51 to 200 employees,2011,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),Fluidigm,0,0,79,147,113.0,"Berkeley Lights
-",1,9,1,0,0,0,0
+", CA,1,9,1,0,0,0,0
 Machine Learning Engineer,$79K-$147K (Glassdoor est.),"About Alpha Health
 We’re on a mission to remedy the financial complexity crippling healthcare in America.
 
@@ -137,7 +137,7 @@ What We Offer
 · Plenty of free parking around the South San Francisco office; Caltrain and BART accessible
 · Comfortable work setup in the South San Francisco office with an ergonomic chair, a standing desk and views of the bay",5.0,"Alpha Health
 5.0","South San Francisco, CA","South San Francisco, CA",1 to 50 employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Alpha Health
-",1,2,1,0,0,1,0
+", CA,1,2,1,0,0,1,0
 Data Scientist #5967,$79K-$147K (Glassdoor est.),"Company Overview
 
 Fanatics is the global leader in licensed sports merchandise and changing the way fans purchase their favorite team apparel and jerseys. Through an innovative, tech-infused approach to making and selling fan gear in today's on-demand culture, Fanatics operates more than 300 online and offline stores, including the e-commerce business for all major professional sports leagues (NFL, MLB, NBA, NHL, NASCAR, MLS, PGA), major media brands (NBC Sports, CBS Sports, FOX Sports) and more than 200 collegiate and professional team properties, which include several of the biggest global soccer clubs (Manchester United, Real Madrid, Chelsea, Manchester City). Fanatics offers the largest collection of timeless and timely merchandise whether shopping online, on your phone, in stores, in stadiums or on-site at the world's biggest sporting events.
@@ -180,7 +180,7 @@ Tryouts are open at Fanatics! Our team is passionate, talented, unified, and cha
 
 NOTICE TO CALIFORNIA RESIDENTS/APPLICANTS: In connection with your application, we collect information that identifies, reasonably relates to or describes you (“Personal Information”). The categories of Personal Information that we collect include your name, government issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, criminal record, and demographic information. We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or future contract positions, recordkeeping in relation to recruiting and hiring, conducting criminal background checks as permitted by law, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies.",3.4,"Fanatics
 3.4","San Mateo, CA","Jacksonville, FL",5001 to 10000 employees,1996,Company - Private,Sporting Goods Stores,Retail,$1 to $2 billion (USD),"Lids, Amazon, Under Armour",0,0,79,147,113.0,"Fanatics
-",0,24,0,0,1,0,0
+", CA,0,24,0,0,1,0,0
 Research Scientist,$79K-$147K (Glassdoor est.),"Working at the intersection of hardware, software, and molecular science, we are committed to delivering on the promise of 3D printing, enabling commercial customers to go beyond basic prototyping to 3D manufacturing.
 Our company is built on the idea that when diverse fields of study come together, we are able to solve challenging problems. We have grand dreams to build technology that will influence industries around the world. You will be joining a diverse team with a dynamic culture, where team success is as important as celebrating individual contributions.
 Help us change the world, and we will help you change yours.
@@ -212,7 +212,7 @@ Any understanding or experiences with large scale production/manufacturing is a 
 Safety conscious individual who actively promotes safe behavior in the department and takes responsibility for safe lab operations
 You do not need to match every listed expectation to apply for this position. Here at Carbon, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.",4.3,"Carbon3D
 4.3","Redwood City, CA","Redwood City, CA",201 to 500 employees,2013,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Carbon3D
-",1,7,0,0,0,0,0
+", CA,1,7,0,0,0,0,0
 Scientist II,$79K-$147K (Glassdoor est.),"Would you like to join an innovative team creating technology to power groundbreaking insights in academic, clinical, pharma and biotech research?
 It is an extraordinary time for Fluidigm. Our technology is empowering customers to improve life through comprehensive health insight. We invite you to join a leading provider of indispensable life sciences tools that is accelerating global research on multiple frontiers of human health.
 At Fluidigm we are also building a positive culture where our people can do the best work of their careers, informed and influenced by our core values:
@@ -255,7 +255,7 @@ Ready to join an industry leader with a bold and ambitious mission that is enabl
 Fluidigm is an equal opportunity/affirmative action employer.
 We will consider all qualified applicants for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.",3.2,"Fluidigm
 3.2","South San Francisco, CA","South San Francisco, CA",501 to 1000 employees,1999,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Illumina, Thermo Fisher Scientific, NanoString",0,0,79,147,113.0,"Fluidigm
-",1,21,0,0,0,0,0
+", CA,1,21,0,0,0,0,0
 Senior Data Scientist,$79K-$147K (Glassdoor est.),"About Us
 
 On the off chance you've thought about insurance, it's likely because you've insured something you love, not because you loved your insurance company. Metromile is out to change that. As an insurtech powered by data science and customer centric-design, we're building a community of drivers who come for the savings and stay for the experience.
@@ -299,7 +299,7 @@ Metromile is an Equal Opportunity-Affirmative Action Employer – Minority / Fem
 
 Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",3.8,"Metromile
 3.8","San Francisco, CA","San Francisco, CA",201 to 500 employees,2011,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Metromile
-",1,9,1,0,1,1,0
+", CA,1,9,1,0,1,1,0
 Data Scientist,$79K-$147K (Glassdoor est.),"Role Description
 As a data scientist at Triplebyte, you’ll have the opportunity to work on a variety of challenges to help us scale. You'll be part of a small team, who are leveraging data to fix technical hiring. Your day to day, will include a mix of dataset acquisition, statistical modeling, exploratory data analysis, and software engineering. You’ll report directly to Triplebytes' Head of Machine Learning and will work alongside a team of 6-8 machine learning engineers and data scientists.
 Fields your work will touch on
@@ -318,7 +318,7 @@ Company Culture
 We have a laid-back, friendly office culture. Over lunch you'll often find us discussing the latest in technology, books, and pop culture, and then maybe getting in a quick game of chess or babyfoot (foosball).
 Since we're an early-stage company, we move fast, and it's important that each member of our team is able to take ownership of projects by defining problems, brainstorming solutions, and running experiments.",3.2,"Triplebyte
 3.2","San Francisco, CA","San Francisco, CA",51 to 200 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Triplebyte
-",1,5,0,0,0,0,0
+", CA,1,5,0,0,0,0,0
 Data Scientist,$79K-$147K (Glassdoor est.),"Our Mission
 We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
 
@@ -362,7 +362,7 @@ All are welcome at Blue Owl. We are an equal opportunity and affirmative action 
 If you are a San Francisco resident, please read the City and County of San Francisco's Fair Chance Ordinance notice.
 https://sfgov.org/olse/sites/default/files/FCO%20poster2020.pdf",4.5,"Blue Owl
 4.5","San Francisco, CA","San Francisco, CA",51 to 200 employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Blue Owl
-",1,4,1,0,0,0,0
+", CA,1,4,1,0,0,0,0
 Sr Data Scientist,$79K-$147K (Glassdoor est.),"About Figure
 
 At Figure, we're on a mission to transform financial services through blockchain, bringing speed, efficiency and savings to both consumers and institutions.
@@ -401,7 +401,7 @@ Company FSA, 401k, commuter benefits
 And much more to come!
 Figure will not sponsor work visas for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.",4.5,"Figure
 4.5","San Francisco, CA","San Francisco, CA",201 to 500 employees,2018,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Figure
-",1,2,1,0,1,1,1
+", CA,1,2,1,0,1,1,1
 Senior Scientist,$79K-$147K (Glassdoor est.),"Would you like to join an innovative team creating technology to power groundbreaking insights in academic, clinical, pharma and biotech research?
 
 It is an extraordinary time for Fluidigm. Our technology is empowering customers to improve life through comprehensive health insight. We invite you to join a leading provider of indispensable life sciences tools that is accelerating global research on multiple frontiers of human health.
@@ -447,7 +447,7 @@ Ready to join an industry leader with a bold and ambitious mission that is enabl
 
 Fluidigm is an equal opportunity/affirmative action employer. We will consider all qualified applicants for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.",3.2,"Fluidigm
 3.2","South San Francisco, CA","South San Francisco, CA",501 to 1000 employees,1999,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Illumina, Thermo Fisher Scientific, NanoString",0,0,79,147,113.0,"Fluidigm
-",1,21,0,0,0,0,0
+", CA,1,21,0,0,0,0,0
 Entry Level Master Data Analyst,$79K-$147K (Glassdoor est.),"The Master Data Analyst role is responsible for owning accuracy, integrity and timeliness of item master data in the Ghirardelli Chocolate JD Edwards ERP system and DevEx, as well as bridge the gap between finance and technology, and identify process improvement opportunities. This person will be responsible for developing a clear and logical process to ensure that item master data is accurate and timely, and analyze monthly reports for potential issues and solutions. Additionally, the role will manage, manipulate and analyze complex data sets and consolidate results to continuously improve and validate the quality of data and data process, thereby ensuring the integrity of Master Data in the Ghirardelli Chocolate JD Edwards ERP system and DevEx.
 Own Data Management
 A gatekeeper for all product led data in DevEx and JDE, responsible for setting up, updating existing items and discontinuing items in the JD Edward ERP System and reviewing data in DevEx.
@@ -500,7 +500,7 @@ Basic understanding of new product development, a plus
 Bachelor's degree in finance, accounting, business or related discipline
 1-2-year experience in Master Data",3.5,"Ghirardelli Chocolate
 3.5","San Leandro, CA","San Leandro, CA",1001 to 5000 employees,1852,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),"Mars, Nestlé, Godiva Chocolatier",0,0,79,147,113.0,"Ghirardelli Chocolate
-",1,168,0,0,0,0,1
+", CA,1,168,0,0,0,0,1
 Data Scientist,$79K-$147K (Glassdoor est.),"Intro
 
 Why this job?
@@ -521,7 +521,7 @@ You are a SQL expert. You have no problem regularly leveraging window functions,
 You have a bias for using the right tools to get a job done with maximum efficiency. You are an expert at making tradeoffs between speed and accuracy.
 You have strong product sense and user intuition which inform the questions you ask of the data you are analyzing.",5.0,"Notion Labs
 5.0","San Francisco, CA","San Francisco, CA",1 to 50 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,79,147,113.0,"Notion Labs
-",1,4,0,0,0,0,0
+", CA,1,4,0,0,0,0,0
 Data Scientist - Machine Learning,$79K-$147K (Glassdoor est.),"Headquartered in Brisbane, Calif., CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients.
 
 Data Scientist-Machine Learning
@@ -563,4 +563,4 @@ With products that are making a difference in the lives of transplant patients t
 CareDx, Inc. is an Equal Opportunity Employer and participate in E-Verify program.
 ******* We do not accept resumes from headhunters, placement agencies, or other suppliers that have not signed a formal agreement with us.",2.5,"CareDx
 2.5","Brisbane, CA","Brisbane, CA",1 to 50 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,Sequenom,0,0,79,147,113.0,"CareDx
-",1,-1,1,0,1,0,1
+", CA,1,-1,1,0,1,0,1
