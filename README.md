@@ -1,12 +1,14 @@
-Glassdoor job scrapping project
+# Glassdoor Job Scrapping Project
 
 Reference of the scrapping using selenium:
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
-Uploaded Python code for the scrapping the job details for the inserted keyword using selenium, modified reference code for the scrapping. 
+# Phase of the Project
 
-Created dataframe of the data into CSV file (glassdoor.csv), on which data operations will be performed for the data cleaning and more.
+•	Uploaded Python code for the scrapping the job details for the inserted keyword using selenium, modified reference code for the scrapping. 
 
-Added new columns into data set for further analysis.
+•	Created dataframe of the data into CSV file (glassdoor.csv), on which data operations will be performed for the data cleaning and more.
 
-Performed exploratory data analysis using existing as well as new columns. Created some visulization using histogram for better understanding of the data.
+•	Added new columns into data set for further analysis.
+
+•	Performed exploratory data analysis (EDA) using existing as well as new columns. Created some visulization using histogram for better understanding of the data.
